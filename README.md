@@ -9,6 +9,9 @@ This project identifies and analyzes security vulnerabilities in a simple Python
 ## 🎯 Objective
 To understand common coding mistakes and improve secure coding practices.
 
+## Demo Link
+https://www.linkedin.com/posts/siddharth-sonar-073506395_cybersecurity-securecoding-python-activity-7442918450081009664-Eyyf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGEStNcBHnEtgNpqMiiDUIgYBJO0kln9Uso
+
 ## 📁 Files
 - vulnerable_code.py
 - report.md
